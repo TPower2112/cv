@@ -1,38 +1,15 @@
 # Tom Power, B.A., CISSP
-Cybersecurity professional
+Cybersecurity professional based in Vancouver, BC.
 
-You can use the [editor on GitHub](https://github.com/TPower2112/digital-cv/edit/gh-pages/readme.md) to maintain and preview the content for your website in Markdown files.
+Can legally work in Canada, the EU, and the USA.
+#### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)
+### Technical Experience
+**Security Operations-Technical Lead** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Manage 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
+ - Triage security events that occur in EDR consoles.
+ - Use sandbox environments to analyze URLs and malware samples.
+ - Troubleshoot technical issues surrounding EDR software such as installation.
+ - Create technical content and User Experience (UX) guides for end users and UBC IT administrators.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TPower2112/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Technologies used:** CrowdStrike Falcon Prevent, Spotlight, Sandbox, and Insight, Cisco Secure Endpoint (AMP), Cisco Umbrella (OpenDNS), Cisco StealthWatch, Cisco Malware Analytics, and Cisco NextGen Firewall.
