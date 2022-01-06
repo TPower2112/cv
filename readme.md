@@ -47,7 +47,7 @@ Cybersecurity professional based in Vancouver, BC.
 
 - Provided BlackBerry Enterprise Server (BES) consultation services to resolve ongoing issues with custom application development and deployment.
 - Redesigned the BES environment to provide High Availability for the BlackBerry Administration Service (BAS) and to ensure timely application deployments.
-- Supported 1200 user mobile sales force.  
+- Supported a 1200 user mobile sales force.  
 - Worked on numerous infrastructure projects ranging from adding storage for the virtual infrastructure, consolidating DNS, and implementing AirWatch Mobile Device Management solution.
 - Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.  
 
