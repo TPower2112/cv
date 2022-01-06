@@ -1,7 +1,7 @@
 # Tom Power, B.A., CISSP
 Cybersecurity professional based in Vancouver, BC.
 
- - Passionate about learning and sharing what I know through technical documentation.
+ - Passionate about helping others, learning, and sharing what I know through technical documentation.
  - Can legally work in Canada, the EU, and the USA.  
 
 
@@ -25,7 +25,7 @@ Cybersecurity professional based in Vancouver, BC.
  - Coordinated the onboarding of UBC Departments to Cisco Contact Center.
  - Troubleshot email message delays.
  - Created technical and project content for UBC and internal team members.
- - **Technologies used:** Microsoft Exchange 2010/2013, Cisco Unified Communications Manager (CUCM), Cisco Email Security Appliance, Cisco Contact Center (UCCX), Cisco Finesse, and Cisco Unity. 
+ - **Technologies used:** Microsoft Exchange 2010/2016, Cisco Unified Communications Manager (CUCM), Cisco Email Security Appliance, Cisco Contact Center (UCCX), Cisco Finesse, and Cisco Unity. 
 
  **Technical Analyst** @ [PHSA](https://www.linkedin.com/company/provincial-health-services-authority/) *(March 2015-June 2015)*
 
@@ -49,9 +49,27 @@ Cybersecurity professional based in Vancouver, BC.
 - Redesigned the BES environment to provide High Availability for the BlackBerry Administration Service (BAS) and to ensure timely application deployments.
 - Supported a 1200 user mobile sales force.  
 - Worked on numerous infrastructure projects ranging from adding storage for the virtual infrastructure, consolidating DNS, and implementing AirWatch Mobile Device Management solution.
-- Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.  
+- Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.
+- **Technologies used:** Microsoft Exchange 2007, Active Directory Domain Services, Active Directory Certificate Services, AirWatch Secure Email Gateway, VMware ESXi/vCenter, NetApp ONTAP, and BES 5.0.    
 
 **Quality Assurance (QA) Analyst** @ [BlackBerry](https://blackberry.com) *(March 2009-Sept. 2010)*
 
 - A member of the QA and BES Escalation teams.
-- Awarded the Knowledge Centered Service (KCS) Coaches First Choice for creating technical knowledge based (KB) articles
+- Awarded the Knowledge Centered Service (KCS) Coaches First Choice🏆for creating technical knowledge based (KB) articles.
+- Coached server associates by providing steps for efficient and effective troubleshooting.
+- Performed technical quality reviews of server associates' interactions.
+- Resolved Severity 1/Priority 1 (BES down) incidents and issues affecting C-level end users.
+- Analyzed BES logs to determine root cause in order to resolve message delays, calendar sync, wireless software application push, and network connectivity issues.
+- Designed and implemented upgrade and migration paths from BES 4.1.x to BES 5.0.x.
+**Server Associate, BES for MS Exchange** @ [BlackBerry](https://blackberry.com) *(Feb. 2007-Feb. 2009)*  
+
+
+### 🎓Education
+
+Bachelor's of Arts (B.A.) in Fine Arts @ [The College of William & Mary](https://wm.edu) Dec 2001
+
+### 📜Certifications
+- Certified Information Systems Security Professional (CISSP) by [ISC<sup>2</sup>](https://isc2.org) July 2020  
+[Member ID-776841](https://www.credly.com/badges/1c0f3682-0e62-4124-9a35-5d242989be3f?source=linked_in_profile)
+- Microsoft Certified: Azure Fundamentals September 2019  
+[Exam AZ 900](https://www.credly.com/badges/71bc91dc-12c3-4992-87ee-d5c2babc32b1/linked_in_profile)
