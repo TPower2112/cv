@@ -6,7 +6,7 @@ Cybersecurity professional based in Vancouver, BC.
 
 
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)
-### Technical Experience
+### :man_technologist: Technical Experience
 **Security Operations-Technical Lead** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
 
  - Manage 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
@@ -21,7 +21,7 @@ Cybersecurity professional based in Vancouver, BC.
  - Acted as the Technical Lead for Unified Messaging (UM) Voicemail.
  - Created, configured, and troubleshot caller's menu. 
  - Supported 20,000 Cisco IP telephones and 10 Contact Centers. 
- -Coordinated the onboarding of UBC Departments to Cisco Contact Center.
+ - Coordinated the onboarding of UBC Departments to Cisco Contact Center.
  - Troubleshot email message delays.
  - Created technical and project content for UBC and internal team members.
  - **Technologies used:** Microsoft Exchange 2010/2013, Cisco Unified Communications Manager (CUCM), Cisco Email Security Appliance, Cisco Contact Center (UCCX), Cisco Finesse, and Cisco Unity. 
@@ -33,3 +33,24 @@ Cybersecurity professional based in Vancouver, BC.
  - Developed a technical questionnaire for application and business owners to obtain any special requirements needed prior to VM migration.
  - Obtained the technical requirements from the storage, virtual infrastructure, network, and data center teams to support the VM migration to a HP 3PAR array and Gen8 blade servers. 
  - Provided status updates and VM inventory reports to project stakeholders.
+
+**Server Team Lead** @ [TELUS](https://telus.com) *(March 2013-March 2014)*  
+
+ - Led the onsite server team, which consisted of five teammates.
+ - Acted as a point of escalation for any project or operational issues.
+ - Worked with the onsite TELUS manager to resolve any issues and to plan for additional project work.
+ - Developed Statements of Work for the onsite client.
+ - Vetted the server team weekly infrastructure changes. 
+
+**Systems Engineer** @ [TELUS](https://telus.com) *(January 2011-March 2013)*  
+
+- Provided BlackBerry Enterprise Server (BES) consultation services to resolve ongoing issues with custom application development and deployment.
+- Redesigned the BES environment to provide High Availability for the BlackBerry Administration Service (BAS) and to ensure timely application deployments.
+- Supported 1200 user mobile sales force.  
+- Worked on numerous infrastructure projects ranging from adding storage for the virtual infrastructure, consolidating DNS, and implementing AirWatch Mobile Device Management solution.
+- Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.  
+
+**Quality Assurance (QA) Analyst** @ [BlackBerry](https://blackberry.com) *(March 2009-Septemeber 2010)*
+
+- A member of the QA and BES Escalation teams.
+- Awarded the Knowledge Centered Service (KCS) Coaches First Choice for creating technical knowledge based (KB) articles
