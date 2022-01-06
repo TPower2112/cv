@@ -51,7 +51,7 @@ Cybersecurity professional based in Vancouver, BC.
 - Worked on numerous infrastructure projects ranging from adding storage for the virtual infrastructure, consolidating DNS, and implementing AirWatch Mobile Device Management solution.
 - Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.  
 
-**Quality Assurance (QA) Analyst** @ [BlackBerry](https://blackberry.com) *(March 2009-Septemeber 2010)*
+**Quality Assurance (QA) Analyst** @ [BlackBerry](https://blackberry.com) *(March 2009-Sept. 2010)*
 
 - A member of the QA and BES Escalation teams.
 - Awarded the Knowledge Centered Service (KCS) Coaches First Choice for creating technical knowledge based (KB) articles
