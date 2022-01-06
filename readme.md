@@ -60,9 +60,10 @@ Cybersecurity professional based in Vancouver, BC.
 - Performed technical quality reviews of server associates' interactions.
 - Resolved Severity 1/Priority 1 (BES down) incidents and issues affecting C-level end users.
 - Analyzed BES logs to determine root cause in order to resolve message delays, calendar sync, wireless software application push, and network connectivity issues.
-- Designed and implemented upgrade and migration paths from BES 4.1.x to BES 5.0.x.
-**Server Associate, BES for MS Exchange** @ [BlackBerry](https://blackberry.com) *(Feb. 2007-Feb. 2009)*  
+- Designed and implemented upgrade and migration paths from BES 4.1.x to BES 5.0.x.  
 
+**Server Associate, BES for MS Exchange** @ [BlackBerry](https://blackberry.com) *(Feb. 2007-Feb. 2009)*  
+- Provided technical support via telephone and email concerning the installation, upgrade, and configuration of BES.
 
 ### 🎓Education
 
