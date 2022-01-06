@@ -7,7 +7,7 @@ Cybersecurity professional based in Vancouver, BC.
 
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)
 
-### :man_technologist: Technical Experience  
+### Technical Experience :man_technologist: 
 **Security Operations-Technical Lead** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
 
  - Manage 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
