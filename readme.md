@@ -64,6 +64,7 @@ Cybersecurity professional based in Vancouver, BC.
 
 **Server Associate, BES for MS Exchange** @ [BlackBerry](https://blackberry.com) *(Feb. 2007-Feb. 2009)*  
 - Provided technical support via telephone and email concerning the installation, upgrade, and configuration of BES.
+- **Technologies used**: SQL Server, BES 4.x, Microsoft Exchange
 
 ### 🎓Education
 
