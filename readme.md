@@ -71,7 +71,7 @@ Cybersecurity professional based in Vancouver, BC.
 Bachelor's of Arts (B.A.) in Fine Arts @ [The College of William & Mary](https://wm.edu) Dec 2001
 
 ### 📜Certifications
-- Certified Information Systems Security Professional (CISSP) by [ISC<sup>2</sup>](https://isc2.org) July 2020  
+- Certified Information Systems Security Professional (CISSP) by [ISC<sup>2</sup>](https://isc2.org) (July 2020)  
 [Member ID-776841](https://www.credly.com/badges/1c0f3682-0e62-4124-9a35-5d242989be3f?source=linked_in_profile)
-- Microsoft Certified: Azure Fundamentals September 2019  
+- Microsoft Certified: Azure Fundamentals (September 2019)  
 [Exam AZ 900](https://www.credly.com/badges/71bc91dc-12c3-4992-87ee-d5c2babc32b1/linked_in_profile)
