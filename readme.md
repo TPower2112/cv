@@ -15,7 +15,7 @@ Cybersecurity professional based in Vancouver, BC.
  - Use sandbox environments to analyze URLs and malware samples.
  - Troubleshoot technical issues surrounding EDR software such as installation.
  - Create technical content and User Experience (UX) guides for end users and UBC IT administrators.
- - **Technologies used:** ServiceNow, CrowdStrike Falcon Prevent, Spotlight, Sandbox, and Insight, Cisco Secure Endpoint (AMP), Cisco Umbrella (OpenDNS), Cisco StealthWatch, Cisco Malware Analytics, and Cisco NextGen Firewall.  
+ - **Technologies used:** ServiceNow, CrowdStrike Falcon Prevent, Spotlight, Sandbox, and Insight, Cisco Secure Endpoint (AMP), Cisco Umbrella (OpenDNS), Cisco StealthWatch, Cisco Malware Analytics, Cisco NextGen Firewall, GitHub, GitHub for Desktop, Markdown, and Atom.  
 
 **System Administrator** @ [UBC IT](https://cio.ubc.ca/) *(June 2015-March 2019)*
  - A member of the UBC IT Communications and Collaboration Team.
