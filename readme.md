@@ -8,28 +8,28 @@ Cybersecurity professional based in Vancouver, BC.
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)/[GitHub](https://github.com/TPower2112)
 
 ### 👨‍💻Technical Experience
-**Security Operations-Technical Lead** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
-
+**Security Operations-System Administrator** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
+ - Act as Operations Lead.
  - Manage 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
  - Triage security events that occur in EDR consoles.
  - Use sandbox environments to analyze URLs and malware samples.
  - Troubleshoot technical issues surrounding EDR software such as installation.
  - Create technical content and User Experience (UX) guides for end users and UBC IT administrators.
- - **Technologies used:** ServiceNow, CrowdStrike Falcon Prevent, Spotlight, Sandbox, and Insight, Cisco Secure Endpoint (AMP), Cisco Umbrella (OpenDNS), Cisco StealthWatch, Cisco Malware Analytics, Cisco NextGen Firewall, GitHub, GitHub for Desktop, Markdown, and Atom.  
+ - **Technologies used:** ServiceNow, CrowdStrike Falcon Prevent platform, Cisco Secure Endpoint (AMP), Cisco Umbrella (OpenDNS), Cisco Stealth Watch, Cisco Malware Analytics, Cisco NextGen Firewall, GitHub, GitHub for Desktop, Markdown, and Atom.  
 
 **System Administrator** @ [UBC IT](https://cio.ubc.ca/) *(June 2015-March 2019)*
- - A member of the UBC IT Communications and Collaboration Team.
+ - A member of the UBC IT communications and collaboration Team.
  - Acted as the Technical Lead for Unified Messaging (UM) Voicemail.
  - Created, configured, and troubleshot caller's menu.
- - Supported 20,000 Cisco IP telephones and 10 Contact Centers.
- - Coordinated the onboarding of UBC Departments to Cisco Contact Center.
+ - Supported 20,000 Cisco IP telephones and 10 contact centers.
+ - Coordinated the onboarding of UBC departments to Cisco Contact Center.
  - Troubleshot email message delays.
  - Created technical and project content for UBC and internal team members.
  - **Technologies used:** Microsoft Exchange 2010/2016, Cisco Unified Communications Manager (CUCM), Cisco Email Security Appliance, Cisco Contact Center (UCCX), Cisco Finesse, and Cisco Unity.
 
  **Technical Analyst** @ [PHSA](https://www.linkedin.com/company/provincial-health-services-authority/) *(March 2015-June 2015)*
 
- - A member of the HSSBC Project Services & Solutions team.
+ - A member of the HSSBC project services & solutions team.
  - Worked on a $3 million ESXi host and storage refresh project including the migration of a 1,000 virtual machines (VM).
  - Developed a technical questionnaire for application and business owners to obtain any special requirements needed prior to VM migration.
  - Obtained the technical requirements from the storage, virtual infrastructure, network, and data center teams to support the VM migration to a HP 3PAR array and Gen8 blade servers.
@@ -45,26 +45,26 @@ Cybersecurity professional based in Vancouver, BC.
 
 **Systems Engineer** @ [TELUS](https://telus.com) *(January 2011-March 2013)*  
 
-- Provided BlackBerry Enterprise Server (BES) consultation services to resolve ongoing issues with custom application development and deployment.
-- Redesigned the BES environment to provide High Availability for the BlackBerry Administration Service (BAS) and to ensure timely application deployments.
-- Supported a 1200 user mobile sales force.  
-- Worked on numerous infrastructure projects ranging from adding storage for the virtual infrastructure, consolidating DNS, and implementing AirWatch Mobile Device Management solution.
-- Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.
-- **Technologies used:** Microsoft Exchange 2007, Active Directory Domain Services, Active Directory Certificate Services, AirWatch Secure Email Gateway, VMware ESXi/vCenter, NetApp ONTAP, and BES 5.0.    
+ - Provided BlackBerry Enterprise Server (BES) consultation services to resolve ongoing issues with custom application development and deployment.
+ - Redesigned the BES environment to provide high availability for the BlackBerry Administration Service.
+ - Supported a 1200 user mobile sales force.  
+ - Worked on numerous infrastructure projects ranging from adding storage for the virtual infrastructure, consolidating DNS, and implementing AirWatch Mobile Device Management solution.
+ - Created project and technical support documentation for the Service Desk, Tier 2, and Tier 3 teams.
+ - **Technologies used:** Microsoft Exchange 2007, Active Directory Domain Services, Active Directory Certificate Services, AirWatch Secure Email Gateway, VMware ESXi/vCenter, NetApp ONTAP, and BES 5.0.    
 
 **Quality Assurance (QA) Analyst** @ [BlackBerry](https://blackberry.com) *(March 2009-Sept. 2010)*
 
-- A member of the QA and BES Escalation teams.
-- Awarded the Knowledge Centered Service (KCS) Coaches First Choice🏆for creating technical knowledge based (KB) articles.
-- Coached server associates by providing steps for efficient and effective troubleshooting.
-- Performed technical quality reviews of server associates' interactions.
-- Resolved Severity 1/Priority 1 (BES down) incidents and issues affecting C-level end users.
-- Analyzed BES logs to determine root cause in order to resolve message delays, calendar sync, wireless software application push, and network connectivity issues.
-- Designed and implemented upgrade and migration paths from BES 4.1.x to BES 5.0.x.  
+ - A member of the QA and BES Escalation teams.
+ - Awarded the Knowledge Centered Service (KCS) Coaches First Choice🏆for creating technical knowledge based (KB) articles.
+ - Coached server associates by providing steps for efficient and effective troubleshooting.
+ - Performed technical quality reviews of server associates' interactions.
+ - Resolved severity 1/priority 1 (BES down) incidents and issues affecting C-level end users.
+ - Analyzed BES logs to determine root cause in order to resolve message delays, calendar sync, wireless software application push, and network connectivity issues.
+ - Designed and implemented upgrade and migration paths from BES 4.1.x to BES 5.0.x.  
 
 **Server Associate, BES for MS Exchange** @ [BlackBerry](https://blackberry.com) *(Feb. 2007-Feb. 2009)*  
-- Provided technical support via telephone and email concerning the installation, upgrade, and configuration of BES.
-- **Technologies used**: BES 4.x, Microsoft Exchange Server, and Microsoft SQL Server.
+ - Provided technical support via telephone and email concerning the installation, upgrade, and configuration of BES.
+ - **Technologies used**: BES 4.x, Microsoft Exchange Server, and Microsoft SQL Server.
 
 ### 🎓Education
 
