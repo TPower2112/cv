@@ -2,7 +2,7 @@
 Cybersecurity professional based in Vancouver, BC.
 
  - Passionate about helping others, learning, and sharing what I know through technical documentation.
- - Can legally work in Canada, the EU, and the USA.  
+ - Can legally work in Canada and the USA.  
 
 
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)/[GitHub](https://github.com/TPower2112)
