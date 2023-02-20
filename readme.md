@@ -1,8 +1,7 @@
 # Tom Power, B.A., CISSP
-Cybersecurity professional based in Vancouver, BC.
+Information Security professional based in Vancouver, BC.
 
- - Passionate about helping others, learning, and sharing what I know through technical documentation.
- - Can legally work in Canada and the USA.  
+ - Passionate about helping others, learning, and sharing what I know through technical documentation. 
 
 
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)/[GitHub](https://github.com/TPower2112)
@@ -75,3 +74,5 @@ Bachelor's of Arts (B.A.) in Fine Arts @ [The College of William & Mary](https:/
 [Member ID-776841](https://www.credly.com/badges/1c0f3682-0e62-4124-9a35-5d242989be3f?source=linked_in_profile)
 - Microsoft Certified: Azure Fundamentals (September 2019)  
 [Exam AZ 900](https://www.credly.com/badges/71bc91dc-12c3-4992-87ee-d5c2babc32b1/linked_in_profile)
+- Python Institute – Certified Entry-Level Python Programmer  (December 2022)
+[PCEP-30-01](https://www.credly.com/badges/b4c272c9-d5c4-4e55-86d9-9ce6ca2cc12c/linked_in_profile)
