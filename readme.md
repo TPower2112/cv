@@ -9,7 +9,7 @@ Information Security professional based in Vancouver, BC.
 ### 👨‍💻Technical Experience
 **Security Operations-Cybersecurity Analyst** @[UBC CISO](https://cio.ubc.ca/information-security) *(July 2023-Present)*
 - Threat Intelligence and Automation Lead.
-- Building a Threat Intel system leveraging open source solutions such as @[MISP]([https://](https://github.com/MISP/MISP) and @[DFIR-IRIS](https://github.com/dfir-iris/iris-web).
+- Building a Threat Intel system leveraging open source solutions such as @[MISP](https://github.com/MISP/MISP) and @[DFIR-IRIS](https://github.com/dfir-iris/iris-web).
 - Buidling automated workflows using @[Tines](https://www.tines.com/).
 
 **Information Security Compliance Support-Lead Advisor** @[UBC PrISM](https://privacymatters.ubc.ca/compliance-support) *(May 2023-July 2023)*
