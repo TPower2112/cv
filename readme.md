@@ -19,12 +19,12 @@ Information Security professional based in Vancouver, BC.
 - Developed a Standard Operating Procedures for the Lead Advisor role.
 
 **Security Operations-System Administrator** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
- - Act as Operations Lead.
- - Manage 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
- - Triage security events that occur in EDR consoles.
- - Use sandbox environments to analyze URLs and malware samples.
- - Troubleshoot technical issues surrounding EDR software such as installation.
- - Create technical content and User Experience (UX) guides for end users and UBC IT administrators.
+ - Operations Lead.
+ - Managed 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
+ - Triaged security events that occur in EDR consoles.
+ - Used sandbox environments to analyze URLs and malware samples.
+ - Troubleshot technical issues surrounding EDR software such as installation.
+ - Created technical content and User Experience (UX) guides for end users and UBC IT administrators.
  - **Technologies used:** ServiceNow, CrowdStrike Falcon Prevent platform, Cisco Secure Endpoint (AMP), Cisco Umbrella (OpenDNS), Cisco Stealth Watch, Cisco Malware Analytics, Cisco NextGen Firewall, GitHub, GitHub for Desktop, Markdown, and Atom.  
 
 **System Administrator** @ [UBC IT](https://cio.ubc.ca/) *(June 2015-March 2019)*
