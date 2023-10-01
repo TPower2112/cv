@@ -7,6 +7,12 @@ Information Security professional based in Vancouver, BC.
 #### [Email](mailto:thomasedwardpower@gmail.com)/[LinkedIn](https://www.linkedin.com/in/thomasedwardpower/)/[GitHub](https://github.com/TPower2112)
 
 ### 👨‍💻Technical Experience
+**Information Security Compliance Support-Lead Advisor** @[UBC PrISM](https://privacymatters.ubc.ca/compliance-support) *(May 2023-July 2023)*
+-Rolled out the PrISM Infosec Compliance Support Program.
+-Worked with units in UBCIT advising and overseeing the completion of information security self-assessments.
+-Ensured that risk mitigations and control gaps are identified and addressed in a timely manner.
+-Developed a Standard Operating Procedures for the Lead Advisor role.
+
 **Security Operations-System Administrator** @ [UBC CISO](https://cio.ubc.ca/information-security) *(March 2019-Present)*
  - Act as Operations Lead.
  - Manage 30,000 endpoints using Endpoint Detection & Response (EDR) platforms.
